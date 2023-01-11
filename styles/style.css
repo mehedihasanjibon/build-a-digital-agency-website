@@ -170,8 +170,43 @@
     width: 100px;
     padding: 20px;
 }
-/* services right content end  */
+/* services right content end  
+    and service section full end 
+*/
 
+/* start appointment section  */
 .appointment-section{
-    
+    width: 75%;
+    padding: 15px;
+    background-color: #e6100d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: -80px;
+    color: #ffffff;
+}
+.call-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-right: 2px solid #808080;
+}
+.appointment-logo{
+    width: 100px;
+    padding: 15px;
+}
+.appointment-description{
+    padding: 10px;
+    text-align: justify;
+}
+.appointment-button{
+    padding: 10px;
+}
+.appointment-button button{
+    padding: 15px 30px;
+    border-radius: 25px;
+    border: none;
 }
