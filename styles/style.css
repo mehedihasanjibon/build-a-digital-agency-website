@@ -281,9 +281,26 @@ footer{
     padding: 20px;
     border-bottom: 1px solid #808080;
 }
+.logo-box{
+    width: 25%;
+}
+.logo-box img{
+    width: 170px;
+}
+.icons{
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
 
+}
 
-
+.footer-title{
+    margin-bottom: 30px;
+}
+.copy{
+    text-align: center;
+    padding: 15px;
+}
 
 
 
