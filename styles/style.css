@@ -142,6 +142,7 @@
     border-radius: 25px;
     border: 1px solid #333030;
     color: #f52c2c;
+    cursor: pointer
 }
 /* services left content end  */
 
@@ -209,6 +210,7 @@
     padding: 15px 30px;
     border-radius: 25px;
     border: none;
+    cursor: pointer
 }
 /* end appointment section */
 
